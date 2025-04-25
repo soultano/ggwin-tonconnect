@@ -4,5 +4,6 @@
   "url": "https://ggwin.life",
   "icon_url": "https://ggwin.life/favicon.ico",
   "terms_of_use_url": "https://ggwin.life",
-  "privacy_policy_url": "https://ggwin.life"
+  "privacy_policy_url": "https://ggwin.life",
+  "bridge_url": "https://bridge.tonapi.io/bridge"
 }
