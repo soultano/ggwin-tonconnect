@@ -1,9 +1,8 @@
 {
-  "url": "https://ggwin.life",
+  "manifest_version": "0.0.1",
   "name": "GGWIN NFT Claim",
-  "iconUrl": "https://ggwin.life/favicon.ico",
-  "termsUrl": "https://ggwin.life",
-  "privacyPolicyUrl": "https://ggwin.life",
-  "address": "UQAT4kuGQHPhVBw0htnonfELVeeB7t0ov08fJ8fwx8FZ9arZ",
-  "network": "mainnet"
+  "url": "https://ggwin.life",
+  "icon_url": "https://ggwin.life/favicon.ico",
+  "terms_of_use_url": "https://ggwin.life",
+  "privacy_policy_url": "https://ggwin.life"
 }
